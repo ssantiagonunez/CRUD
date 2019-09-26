@@ -1,0 +1,10 @@
+C:\Users\Deusml\source\repos\CRUD_BanReservas\CRUD_BanReservas\bin\Debug\CRUD_BanReservas.exe.config
+C:\Users\Deusml\source\repos\CRUD_BanReservas\CRUD_BanReservas\bin\Debug\CRUD_BanReservas.exe
+C:\Users\Deusml\source\repos\CRUD_BanReservas\CRUD_BanReservas\bin\Debug\CRUD_BanReservas.pdb
+C:\Users\Deusml\source\repos\CRUD_BanReservas\CRUD_BanReservas\obj\Debug\CRUD_BanReservas.csprojAssemblyReference.cache
+C:\Users\Deusml\source\repos\CRUD_BanReservas\CRUD_BanReservas\obj\Debug\CRUD_BanReservas.Form1.resources
+C:\Users\Deusml\source\repos\CRUD_BanReservas\CRUD_BanReservas\obj\Debug\CRUD_BanReservas.Properties.Resources.resources
+C:\Users\Deusml\source\repos\CRUD_BanReservas\CRUD_BanReservas\obj\Debug\CRUD_BanReservas.csproj.GenerateResource.cache
+C:\Users\Deusml\source\repos\CRUD_BanReservas\CRUD_BanReservas\obj\Debug\CRUD_BanReservas.csproj.CoreCompileInputs.cache
+C:\Users\Deusml\source\repos\CRUD_BanReservas\CRUD_BanReservas\obj\Debug\CRUD_BanReservas.exe
+C:\Users\Deusml\source\repos\CRUD_BanReservas\CRUD_BanReservas\obj\Debug\CRUD_BanReservas.pdb
